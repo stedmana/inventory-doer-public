@@ -1,4 +1,4 @@
-# Inventory Doer
+# Ad Infinitum
 
 A private journal for 12-step recovery work. Write spot-check and nightly inventories, keep prayers and meditations close, and set gentle reminders to keep up the habit.
 
@@ -22,10 +22,10 @@ Please don't include your journal entries or other personal recovery details in 
 ### Common questions
 
 **My entries aren't showing up on my other device.**
-Inventory Doer syncs through your own iCloud account. Make sure both devices are signed in to the same Apple Account, and that iCloud is turned on for Inventory Doer in **Settings → [your name] → iCloud**. Syncing can take a few minutes, especially on the first launch.
+Ad Infinitum syncs through your own iCloud account. Make sure both devices are signed in to the same Apple Account, and that iCloud is turned on for Ad Infinitum in **Settings → [your name] → iCloud**. Syncing can take a few minutes, especially on the first launch.
 
 **I'm not getting reminders.**
-- Check that notifications are allowed in **Settings → Notifications → Inventory Doer**.
+- Check that notifications are allowed in **Settings → Notifications → Ad Infinitum**.
 - In the app, go to **Settings → Reminders** and make sure **Send reminders on this device** is on. It's off by default on iPad and Mac, so you don't get every reminder twice.
 - Focus modes and Scheduled Summary can delay or silence notifications.
 
@@ -44,7 +44,7 @@ Use **Settings → Erase everything** in the app. See [Deleting your data](#dele
 
 _Last updated: September 23, 2026_
 
-Inventory Doer is built for private, personal recovery work. Your entries are yours. This policy explains what the app stores and where.
+Ad Infinitum is built for private, personal recovery work. Your entries are yours. This policy explains what the app stores and where.
 
 ### The short version
 
@@ -89,7 +89,7 @@ If you use **Export or share**, the app creates a file containing the data you c
 ### Deleting your data
 
 - **In the app:** **Settings → Erase everything** deletes your data from the device and, through sync, from your iCloud database.
-- **From iCloud directly:** on iPhone or iPad, go to **Settings → [your name] → iCloud → Manage Account Storage**, choose Inventory Doer, and delete its data.
+- **From iCloud directly:** on iPhone or iPad, go to **Settings → [your name] → iCloud → Manage Account Storage**, choose Ad Infinitum, and delete its data.
 - Deleting the app removes the data stored on that device.
 
 ### Children
